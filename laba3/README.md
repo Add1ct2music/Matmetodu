@@ -11,7 +11,7 @@
 - iii. :heavy_check_mark: Дізнались про імпорт необхідних бібліотек; 
 - iv. :heavy_check_mark: Навчились створенню базових графіків; 
 - v. :heavy_check_mark: Дізнались як представляти графічний розвязок системи рівнянь;
-- vi. :heavy_check_mark: Виконали завдання у Jupyter Notebook[https://github.com/BobasB/it_college/blob/main/notes/12/1_matplotlib.ipynb]; 
+- vi. :heavy_check_mark: Виконали завдання у Jupyter Notebook[https://github.com/BobasB/2023_kn220_mmdo/blob/main/4_work/1.ipynb]; 
 
 
 ![logo](https://github.com/BobasB/it_college/blob/main/reports/pictures/logo-lit.jpg)
